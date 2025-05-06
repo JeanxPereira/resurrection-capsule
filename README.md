@@ -16,7 +16,10 @@ At this moment (06/01/25): the game launches, and the hero editor can be used, w
 - Resurrection Capsule Hub
 - [Resurrection Capsule Launcher](https://github.com/vitor251093/recap_launcher)
 - [Resurrection Capsule Server](https://github.com/vitor251093/recap_server)
-- [Resurrection Capsule Web Panel](https://github.com/vitor251093/recap_panel)
+- [Resurrection Capsule Admin Panel](https://github.com/vitor251093/recap_panel)
+- [dbpf_unpacker](https://github.com/vitor251093/dbpf_unpacker) (based on based on [SporeModder FX](https://emd4600.github.io/SporeModder-FX/) by emd4600)
+- [Resurrection Capsule Parser](https://github.com/JeanxPereira/recap_parser)
+- [unluac](https://github.com/vitor251093/unluac) (originally developed by HansWessels)
 
 ## FAQ
 
