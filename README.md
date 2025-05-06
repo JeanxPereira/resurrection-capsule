@@ -48,6 +48,7 @@ We can't accept any form of income in the project, but if you want to help Darks
  * dalkon, for migrating the project from Python to C++, and developing the majority of the ReCap server code from 2019 to 2022
  * Splitwirez, for being our main consultant regarding the way Darkspore used to work, our designer, and the developer of the Resurrection Capsule Hub
  * r0ptr, for fixing the CMake build process, allowing us to continue the project after a huge hiatus, and for helping with coding in general
+ * JeanxPereira, for implementing the parser and streamlining the process with the unpacker, the parser and unluac, giving the server access to all needed assets
  * All the members from our Discord server that helped testing and developing the server!
 
 ## Special Thanks
